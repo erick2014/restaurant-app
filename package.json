@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "restaurant app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick2014/restaurant-app.git"
+  },
+  "author": "erick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick2014/restaurant-app/issues"
+  },
+  "homepage": "https://github.com/erick2014/restaurant-app#readme",
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  }
+}
